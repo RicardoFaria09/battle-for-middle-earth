@@ -1,0 +1,17 @@
+# Compiled classes
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Course material and delivery files (not part of the source code)
+*.pdf
+*.zip
+Fontes/
+
+# Tools / OS
+.claude/
+.DS_Store
+Thumbs.db
